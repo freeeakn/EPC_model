@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T10:48:56.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="A2ivYm5L1FMqqAKkYAiJ" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T10:57:00.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="uEoTnk_twhUYiI9HyAw6" version="24.2.2" type="github">
   <diagram name="Page-1" id="cV4_P1KYifTKVsKzo9vI">
     <mxGraphModel dx="1436" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="334" y="370" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--14" value="&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot; title=&quot;Page 2&quot; class=&quot;page&quot;&gt;&lt;div style=&quot;&quot; class=&quot;section&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;клиент решает не пользоваться услугами фирмы&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="275" width="160" height="80" as="geometry" />
+          <mxGeometry x="490" y="275" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--16" target="tOZuIOWOJhDS1oZQBcS--27">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="tOZuIOWOJhDS1oZQBcS--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--20" target="tOZuIOWOJhDS1oZQBcS--27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--20" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;div class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Обсуждение даты&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--20" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;div class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Обсуждение даты&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(80, 82, 91); color: rgb(80, 82, 91); font-family: ArialMT; font-size: 16px;&quot;&gt;осмотра квартиры&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
           <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--21" target="tOZuIOWOJhDS1oZQBcS--27">
@@ -85,13 +85,16 @@
         <mxCell id="tOZuIOWOJhDS1oZQBcS--53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--25" target="tOZuIOWOJhDS1oZQBcS--51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--25" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;осмотр квартиры&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="234" y="740" width="120" height="80" as="geometry" />
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--25" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Квартира осмотрена&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1010" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--27" target="tOZuIOWOJhDS1oZQBcS--25">
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--27" target="tOZuIOWOJhDS1oZQBcS--62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--27" target="tOZuIOWOJhDS1oZQBcS--28">
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--27" target="tOZuIOWOJhDS1oZQBcS--64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--27" target="tOZuIOWOJhDS1oZQBcS--66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--27" value="AND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -100,20 +103,8 @@
         <mxCell id="tOZuIOWOJhDS1oZQBcS--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--28" target="tOZuIOWOJhDS1oZQBcS--51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--28" value="&lt;div style=&quot;text-indent: 0px; font-size: 14px;&quot; title=&quot;Page 2&quot; class=&quot;page&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;section&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;layoutArea&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;column&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;section&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;layoutArea&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;column&quot;&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;ArialMT&quot; color=&quot;#50525b&quot;&gt;обговор с клиентом требований к ремонту&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390" y="740" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--39" target="tOZuIOWOJhDS1oZQBcS--27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--39" value="Дизайнер" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="680" y="730" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--40" target="tOZuIOWOJhDS1oZQBcS--27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tOZuIOWOJhDS1oZQBcS--40" value="Диспетчер" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="680" y="635" width="120" height="80" as="geometry" />
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--28" value="&lt;div style=&quot;text-indent: 0px; font-size: 14px;&quot; title=&quot;Page 2&quot; class=&quot;page&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;section&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;layoutArea&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;column&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;section&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;layoutArea&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot; class=&quot;column&quot;&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;ArialMT&quot; color=&quot;#50525b&quot;&gt;Требования обговорены&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="416" y="1010" width="174" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--44" target="tOZuIOWOJhDS1oZQBcS--16">
           <mxGeometry relative="1" as="geometry" />
@@ -125,10 +116,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--49" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;div class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;заключение договора на выполнение работ&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="289" y="970" width="160" height="80" as="geometry" />
+          <mxGeometry x="305" y="1240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--50" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Не заключение договора на выполнение работ&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490" y="900" width="170" height="70" as="geometry" />
+          <mxGeometry x="506" y="1170" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--51" target="tOZuIOWOJhDS1oZQBcS--49">
           <mxGeometry relative="1" as="geometry" />
@@ -137,16 +128,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--51" value="XOR" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="354" y="870" width="30" height="30" as="geometry" />
+          <mxGeometry x="370" y="1140" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--58" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;text-indent: 0px;&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;font size=&quot;3&quot; face=&quot;ArialMT&quot; color=&quot;#50525b&quot;&gt;Произведена&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;3&quot; face=&quot;ArialMT&quot; color=&quot;#50525b&quot;&gt;предоплат&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="309" y="1090" width="120" height="80" as="geometry" />
+          <mxGeometry x="325" y="1360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--60" target="tOZuIOWOJhDS1oZQBcS--58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tOZuIOWOJhDS1oZQBcS--60" value="клиент" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1090" width="120" height="80" as="geometry" />
+          <mxGeometry x="506" y="1360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--62" target="tOZuIOWOJhDS1oZQBcS--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--62" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Заявка подана&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--64" target="tOZuIOWOJhDS1oZQBcS--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--64" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Дата&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(80, 82, 91); color: rgb(80, 82, 91); font-family: ArialMT; font-size: 16px;&quot;&gt;осмотра квартиры&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 82, 91); font-family: ArialMT; font-size: 12pt;&quot;&gt;&amp;nbsp;назначена&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="331" y="730" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--66" target="tOZuIOWOJhDS1oZQBcS--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--66" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: ArialMT; color: rgb(80, 82, 91);&quot;&gt;Время&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(80, 82, 91); color: rgb(80, 82, 91); font-family: ArialMT; font-size: 16px;&quot;&gt;осмотра квартиры&lt;/span&gt;&lt;span style=&quot;color: rgb(80, 82, 91); font-family: ArialMT; font-size: 12pt;&quot;&gt;&amp;nbsp;назначено&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="510" y="730" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--68" target="tOZuIOWOJhDS1oZQBcS--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--68" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;div class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;font size=&quot;3&quot; face=&quot;ArialMT&quot; color=&quot;#50525b&quot;&gt;&lt;span style=&quot;caret-color: rgb(80, 82, 91);&quot;&gt;Осмотр квартиры&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--69" target="tOZuIOWOJhDS1oZQBcS--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--69" target="tOZuIOWOJhDS1oZQBcS--73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--69" value="AND" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="396" y="850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tOZuIOWOJhDS1oZQBcS--73" target="tOZuIOWOJhDS1oZQBcS--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tOZuIOWOJhDS1oZQBcS--73" value="&lt;div class=&quot;page&quot; title=&quot;Page 2&quot; style=&quot;&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;div class=&quot;page&quot; title=&quot;Page 2&quot;&gt;&lt;div class=&quot;section&quot; style=&quot;&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;font size=&quot;3&quot; face=&quot;ArialMT&quot; color=&quot;#50525b&quot;&gt;&lt;span style=&quot;caret-color: rgb(80, 82, 91);&quot;&gt;Обсуждение требований к ремонту&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="436" y="920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
